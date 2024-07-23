@@ -1,0 +1,12 @@
+.d-none {
+  display: none;
+}
+.d-block {
+  display: block;
+}
+.text-danger {
+  color: #ff6384;
+}
+.line-through {
+  text-decoration: line-through;
+}
